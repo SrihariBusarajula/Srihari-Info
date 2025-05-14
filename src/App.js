@@ -58,7 +58,7 @@ function App() {
                 <div>
                   <div className="d-flex flex-column gap-3">
                     <div className="d-flex align-items-center gap-2 sb_locIcon">
-                      <img src={Location} className="img-fluid" />
+                      <img alt='' src={Location} className="img-fluid" />
                       <p>Hyderabad, India</p>
                     </div>
                     <div className="d-flex align-items-center gap-2">
@@ -70,7 +70,7 @@ function App() {
               </div>
             </div>
             <div className="col-lg-4 col-md-4 col-4">
-              <img src={bannerimage} className="img-fluid" />
+              <img alt=' 'src={bannerimage} className="img-fluid" />
             </div>
           </div>
         </div>
@@ -91,7 +91,7 @@ function App() {
             {/* <!-- About Item 1--> */}
             <div className="col-md-4 col-lg-4">
               <div className="sb_AboutImg">
-                <img src={aboutme} className="img-fluid" />
+                <img alt=' 'src={aboutme} className="img-fluid" />
               </div>
             </div>
             {/* <!-- About Item 2--> */}
@@ -150,7 +150,7 @@ function App() {
             <div className="col-md-2 col-lg-2">
               <div className="sb_skillSec d-flex flex-column gap-2">
                 <div className="sb_skillImage">
-                  <img className="img-fluid" src={iconFigma} />
+                  <img alt=' 'className="img-fluid" src={iconFigma} />
                 </div>
                 <p>Figma</p>
               </div>
@@ -158,7 +158,7 @@ function App() {
             <div className="col-md-2 col-lg-2">
               <div className="sb_skillSec d-flex flex-column gap-2">
                 <div className="sb_skillImage">
-                  <img className="img-fluid" src={iconGit} />
+                  <img alt=' 'className="img-fluid" src={iconGit} />
                 </div>
                 <p>Git</p>
               </div>
@@ -166,7 +166,7 @@ function App() {
             <div className="col-md-2 col-lg-2">
               <div className="sb_skillSec d-flex flex-column gap-2">
                 <div className="sb_skillImage">
-                  <img className="img-fluid" src={iconCss} />
+                  <img alt=' 'className="img-fluid" src={iconCss} />
                 </div>
                 <p>CSS3</p>
               </div>
@@ -174,7 +174,7 @@ function App() {
             <div className="col-md-2 col-lg-2">
               <div className="sb_skillSec d-flex flex-column gap-2">
                 <div className="sb_skillImage">
-                  <img className="img-fluid" src={iconHtml5} />
+                  <img alt=' 'className="img-fluid" src={iconHtml5} />
                 </div>
                 <p>HTML5</p>
               </div>
@@ -182,7 +182,7 @@ function App() {
             <div className="col-md-2 col-lg-2">
               <div className="sb_skillSec d-flex flex-column gap-2">
                 <div className="sb_skillImage">
-                  <img className="img-fluid" src={iconbootstrap5} />
+                  <img alt=' 'className="img-fluid" src={iconbootstrap5} />
                 </div>
                 <p>Bootstrap5</p>
               </div>
@@ -190,7 +190,7 @@ function App() {
             <div className="col-md-2 col-lg-2">
               <div className="sb_skillSec d-flex flex-column gap-2">
                 <div className="sb_skillImage">
-                  <img className="img-fluid" src={iconjavscript} />
+                  <img alt=' 'className="img-fluid" src={iconjavscript} />
                 </div>
                 <p>JavaScript</p>
               </div>
@@ -221,7 +221,7 @@ function App() {
                       <div className="row">
                         <div className="col-md-2 col-lg-2">
                           <div className="sb_upwork">
-                            <img className="img-fluid" src={logoUpwork} />
+                            <img alt=' 'className="img-fluid" src={logoUpwork} />
                           </div>
                         </div>
                         <div className="col-md-7 col-lg-7">
@@ -263,7 +263,7 @@ function App() {
                       <div className="row">
                         <div className="col-md-2 col-lg-2">
                           <div className="sb_upwork">
-                            <img className="img-fluid" src={logoUpwork} />
+                            <img alt=' 'className="img-fluid" src={logoUpwork} />
                           </div>
                         </div>
                         <div className="col-md-7 col-lg-7">
@@ -302,7 +302,7 @@ function App() {
                       <div className="row">
                         <div className="col-md-2 col-lg-2">
                           <div className="sb_upwork">
-                            <img className="img-fluid" src={logoUpwork} />
+                            <img alt=' 'className="img-fluid" src={logoUpwork} />
                           </div>
                         </div>
                         <div className="col-md-7 col-lg-7">
@@ -332,7 +332,7 @@ function App() {
                       <div className="row">
                         <div className="col-md-2 col-lg-2">
                           <div className="sb_upwork">
-                            <img className="img-fluid" src={logoUpwork} />
+                            <img alt=' 'className="img-fluid" src={logoUpwork} />
                           </div>
                         </div>
                         <div className="col-md-7 col-lg-7">
@@ -391,7 +391,7 @@ function App() {
                 {/* <!-- Portfolio Item 1--> */}
                 <div className="col-md-6 col-lg-6 order-2 sb_WorkBlock">
                   <div className="sb_WorkSecImage ">
-                    <img className="img-fluid" src={ProjectTridaPro} />
+                    <img alt=' 'className="img-fluid" src={ProjectTridaPro} />
                   </div>
                 </div>
                 <div className="col-md-6 col-lg-6 order-1">
@@ -410,7 +410,7 @@ function App() {
                       <span class="badge text-bg-secondary">GIT</span>
                     </div>
                     <a href="https://tridapro.com/" target="-blank" className="sb_ProjectLink">
-                      <img src={IconLink} />
+                      <img alt=' 'src={IconLink} />
                     </a>
                   </div>
                 </div>
@@ -421,7 +421,7 @@ function App() {
                 {/* <!-- Portfolio Item 1--> */}
                 <div className="col-md-6 col-lg-6 order-1 sb_WorkBlock">
                   <div className="sb_WorkSecImage ">
-                    <img className="img-fluid" src={ProjectJupiter} />
+                    <img alt=' 'className="img-fluid" src={ProjectJupiter} />
                   </div>
                 </div>
                 <div className="col-md-6 col-lg-6 order-2">
@@ -438,7 +438,7 @@ function App() {
                       <span class="badge text-bg-secondary">GIT</span>
                     </div>
                     <a href={ProjectJupiter} target="-blank" className="sb_ProjectLink">
-                      <img src={IconLink} />
+                      <img alt=' 'src={IconLink} />
                     </a>
                   </div>
                 </div>
@@ -448,7 +448,7 @@ function App() {
               <div className="row align-items-center gy-2">
                 <div className="col-md-6 col-lg-6 order-2 sb_WorkBlock">
                   <div className="sb_WorkSecImage">
-                    <img className="img-fluid" src={projectlogin} />
+                    <img alt=' 'className="img-fluid" src={projectlogin} />
                   </div>
                 </div>
                 <div className="col-md-6 col-lg-6 order-1">
@@ -465,7 +465,7 @@ function App() {
                       <span class="badge text-bg-secondary">GIT</span>
                     </div>
                     <a href={projectlogin} target="-blank" className="sb_ProjectLink">
-                      <img src={IconLink} />
+                      <img alt=' 'src={IconLink} />
                     </a>
                   </div>
                 </div>
@@ -487,13 +487,13 @@ function App() {
                       <span class="badge text-bg-secondary">GIT</span>
                     </div>
                     <a href={projectstudents} target="-blank" className="sb_ProjectLink">
-                      <img src={IconLink} />
+                      <img alt=' 'src={IconLink} />
                     </a>
                   </div>
                 </div>
                 <div className="col-md-6 col-lg-6 order-1 sb_WorkBlock">
                   <div className="sb_WorkSecImage">
-                    <img className="img-fluid" src={projectstudents} />
+                    <img alt=' 'className="img-fluid" src={projectstudents} />
                   </div>
                 </div>
               </div>
@@ -521,7 +521,7 @@ function App() {
                       <div className="row">
                         <div className="col-md-2 col-lg-2">
                           <div className="sb_upwork">
-                            <img className="img-fluid" src={logoUpwork} />
+                            <img alt=' 'className="img-fluid" src={logoUpwork} />
                           </div>
                         </div>
                         <div className="col-md-7 col-lg-7">
@@ -563,7 +563,7 @@ function App() {
                       <div className="row">
                         <div className="col-md-2 col-lg-2">
                           <div className="sb_upwork">
-                            <img className="img-fluid" src={logoUpwork} />
+                            <img alt=' 'className="img-fluid" src={logoUpwork} />
                           </div>
                         </div>
                         <div className="col-md-7 col-lg-7">
@@ -602,7 +602,7 @@ function App() {
                       <div className="row">
                         <div className="col-md-2 col-lg-2">
                           <div className="sb_upwork">
-                            <img className="img-fluid" src={logoUpwork} />
+                            <img alt=' 'className="img-fluid" src={logoUpwork} />
                           </div>
                         </div>
                         <div className="col-md-7 col-lg-7">
@@ -632,7 +632,7 @@ function App() {
                       <div className="row">
                         <div className="col-md-2 col-lg-2">
                           <div className="sb_upwork">
-                            <img className="img-fluid" src={logoUpwork} />
+                            <img alt=' 'className="img-fluid" src={logoUpwork} />
                           </div>
                         </div>
                         <div className="col-md-7 col-lg-7">
@@ -683,8 +683,8 @@ function App() {
               <h2 className="page-section-heading text-center text-uppercase text-white mb-0 mt-1">Contact Me</h2>
               <p className='text-white text-center mt-2'>What’s next? Feel free to reach out to me if you're looking for a developer, have a query, or simply want to connect.</p>
               <div className='sb_footerInfo text-center mt-3'>
-                <h5 className='text-white'><img className='img-fluid' src={Iconmassage} /> <a href='mailto:b.srihari10@gmail.com' className='text-white'>b.srihari10@gmail.com</a></h5>
-                <h5 className='text-white'><img className='img-fluid' src={Iconphone} /> <a href='tel:+919000804057' className='text-white'>+91 9000804057</a> </h5>
+                <h5 className='text-white'><img alt=' 'className='img-fluid' src={Iconmassage} /> <a href='mailto:b.srihari10@gmail.com' className='text-white'>b.srihari10@gmail.com</a></h5>
+                <h5 className='text-white'><img alt=' 'className='img-fluid' src={Iconphone} /> <a href='tel:+919000804057' className='text-white'>+91 9000804057</a> </h5>
               </div>
             </div> 
           </div>
